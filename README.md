@@ -18,7 +18,7 @@ Install the required libraries using pip:
 !pip install requests pandas textblob matplotlib plotly langdetect googletrans
 ```
 
-MyBinder: 
+MyBinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crackie-hakz/news-sentimental-analysis/HEAD)
 
 ## Screenshots of plots
 ![image](https://github.com/crackie-hakz/news-sentimental-analysis/assets/145805767/3b315d18-937d-484f-b010-d4229efbac12)
