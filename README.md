@@ -15,7 +15,7 @@ The sentiment analysis is conducted through a series of steps using natural lang
 
 Install the required libraries using pip:
 ```
-!pip install requests pandas textblob matplotlib plotly langdetect googletrans
+!pip install requests pandas textblob matplotlib plotly langdetect googletrans nltk
 ```
 
 MyBinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crackie-hakz/news-sentimental-analysis/HEAD)
