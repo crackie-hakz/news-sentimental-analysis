@@ -20,6 +20,8 @@ Install the required libraries using pip:
 
 MyBinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crackie-hakz/news-sentimental-analysis/HEAD)
 
+It may take 3-4 minutes for launching, please be patient!!
+
 ## Screenshots of plots
 ![image](https://github.com/crackie-hakz/news-sentimental-analysis/assets/145805767/3b315d18-937d-484f-b010-d4229efbac12)
 ![image](https://github.com/crackie-hakz/news-sentimental-analysis/assets/145805767/31503d12-5ca5-42d6-a896-f42fb76a2ba4)
